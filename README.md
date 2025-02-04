@@ -28,5 +28,3 @@ In this paper, we have performed random forest classification over PIMA Indian D
 # Future enhancement
 This model can be further developed through building a mobile application by incorporating this algorithm into it, so that the user can give the input himself and predict his health status right away. This model should also be tested on a variety of datasets to see how it performs. It has to be tested on larger datasets. Model can be tested on different types of datasets like breast cancer dataset or brain tumor dataset etc. by making necessary changes in the code to check its flexibility.
 
-#Youtube link 
-https://www.youtube.com/watch?v=DqH4ijE6-gA
